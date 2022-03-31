@@ -1,0 +1,10 @@
+.t-shirt button {
+  border: none;
+}
+.t-shirt img {
+  height: 250px;
+}
+.t-shirt {
+  height: 400px;
+  border: 1px solid indigo;
+}
